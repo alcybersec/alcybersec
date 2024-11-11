@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Aleksandr. 👋
 
 ![Cyber Security](https://img.shields.io/badge/Cyber%20Security-Expert-blue)
 ![Privacy Advocate](https://img.shields.io/badge/Privacy%20Advocate-Active-green)
