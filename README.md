@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Aleksandr 👋
 
 ![Cyber Security](https://img.shields.io/badge/Cyber%20Security-Student-blue)
 ![Privacy Advocate](https://img.shields.io/badge/Privacy%20Advocate-Active-green)
@@ -13,15 +13,20 @@ Welcome to my GitHub profile! I'm a passionate Cyber Security student, privacy a
 - 💻 Programmer with experience in Python, C++ and JavaScript
 - 📚 Always learning and growing
 
+![Profile Views](https://komarev.com/ghpvc/?username=alcybersec&color=blue)
+
 ## 🛠️ Skills
 
 - **Programming Languages:** Python, C++, JavaScript
 - **Cyber Security:** Network Security, Ethical Hacking, Penetration Testing
 - **Tools:** Wireshark, Metasploit, Burp Suite, Nmap
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alcybersec&layout=compact&theme=radical)
+
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alcybersec&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alcybersec&theme=radical)
 
 ## 📫 How to reach me
 
@@ -43,9 +48,58 @@ Welcome to my GitHub profile! I'm a passionate Cyber Security student, privacy a
 ## 🤝 Support
 
 If you like my work, consider buying me a coffee!
-
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20My%20Work-orange)](https://www.buymeacoffee.com/yourusername)
 
 ---
 
-⭐️ From [Your Name](https://github.com/alcybersec)
+## ⚙️ GitHub Actions
+
+### CI/CD Pipeline
+```yaml
+name: CI/CD Pipeline
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    - name: Run tests
+      run: |
+        pytest
+```
+
+### Code Quality
+```yaml
+name: Code Quality
+
+on: [push, pull_request]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install flake8
+    - name: Lint with flake8
+      run: |
+        flake8 .
+```
