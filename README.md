@@ -1,6 +1,6 @@
-# Hi there, I'm Aleksandr. 👋
+# Hi there, I'm [Your Name] 👋
 
-![Cyber Security](https://img.shields.io/badge/Cyber%20Security-Expert-blue)
+![Cyber Security](https://img.shields.io/badge/Cyber%20Security-Student-blue)
 ![Privacy Advocate](https://img.shields.io/badge/Privacy%20Advocate-Active-green)
 ![Programmer](https://img.shields.io/badge/Programmer-Python%20%7C%20JavaScript%20%7C%20C%2B%2B-orange)
 
@@ -10,18 +10,18 @@ Welcome to my GitHub profile! I'm a passionate Cyber Security student, privacy a
 
 - 🔐 Cyber Security Enthusiast
 - 🛡️ Privacy Advocate
-- 💻 Programmer with experience in Python, JavaScript, and C++
+- 💻 Programmer with experience in Python, C++ and JavaScript
 - 📚 Always learning and growing
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Python, JavaScript, C++
+- **Programming Languages:** Python, C++, JavaScript
 - **Cyber Security:** Network Security, Ethical Hacking, Penetration Testing
 - **Tools:** Wireshark, Metasploit, Burp Suite, Nmap
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alcybersec&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
 
