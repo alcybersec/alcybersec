@@ -20,12 +20,12 @@ Welcome to my GitHub profile! I'm a passionate Cyber Security student, privacy a
 ## 🛠️ Skills
 
 <div align="center">
-  **Programming Languages:**<br>
-  Python, C++, JavaScript
-  **Cyber Security:** 
-  Network Security, Ethical Hacking, Penetration Testing
-  **Tools:** 
-  Wireshark, Metasploit, Burp Suite, Nmap
+  <p><strong>Programming Languages:</strong><br>
+  Python, C++, JavaScript</p>
+  <p><strong>Cyber Security:</strong><br>
+  Network Security, Ethical Hacking, Penetration Testing</p>
+  <p><strong>Tools:</strong><br>
+  Wireshark, Metasploit, Burp Suite, Nmap</p>
 </div>
 
 ## 📈 GitHub Stats
