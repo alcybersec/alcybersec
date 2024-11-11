@@ -30,9 +30,9 @@ Welcome to my GitHub profile! I'm a passionate Cyber Security student, privacy a
 
 ## 📈 GitHub Stats
 <div align="center">
-  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alcybersec&show_icons=true&theme=radical)
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alcybersec&theme=radical)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alcybersec&layout=compact&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=alcybersec&show_icons=true&theme=radical" alt="Your GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alcybersec&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alcybersec&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ## 📫 How to reach me
