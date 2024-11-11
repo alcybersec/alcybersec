@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate Cyber Security student, privacy a
 ## 🛠️ Skills
 
 <div align="center">
-  **Programming Languages:** 
+  **Programming Languages:**<br>
   Python, C++, JavaScript
   **Cyber Security:** 
   Network Security, Ethical Hacking, Penetration Testing
