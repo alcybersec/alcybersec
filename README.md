@@ -46,11 +46,11 @@ Welcome to my GitHub profile! I'm a passionate Cyber Security student, privacy a
         <code><a href="https://www.wordpress.com/" title="Wordpress" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png" alt="MongoDB" width="50" height="50"/></a></code>
         </p>
         <p><strong>Infrastructure & Virtualization:</strong><br>
-        <code><a href="https://www.nginx.com/" title="Nginx" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="Nginx" width="50" height="50"/></a></code>
-        <code><a href="https://www.virtualbox.org/" title="VirtualBox" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="VirtualBox" width="50" height="50"/></a></code>
+        <code><a href="https://www.mysql.com/" title="MySQL" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" width="50" height="50"/></a></code>
+        <code><a href="https://www.docker.com/" title="Docker" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" width="50" height="50"/></a></code>
         </p>
         <p><strong>Shell Scripting:</strong><br>
-        <code><a href="https://www.docker.com/" title="Docker" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="Docker" width="50" height="50"/></a></code>
+        <code><a href="https://www.docker.com/" title="Bash" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="Bash" width="50" height="50"/></a></code>
         </p>
         <p><strong>Cyber Security:</strong><br>
         Network Security, Ethical Hacking, Penetration Testing</p>
