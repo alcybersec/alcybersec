@@ -85,7 +85,7 @@ Welcome to my GitHub profile! I'm a passionate Cyber Security student, privacy a
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START 
 [Post Title](https://yourblog.com/post-title)<br>
 [Post Title](https://yourblog.com/post-title)
 <!-- BLOG-POST-LIST:END -->
