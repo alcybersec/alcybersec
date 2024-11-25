@@ -6,7 +6,7 @@
 
 Welcome to my GitHub profile! I'm a passionate Cyber Security student, privacy advocate, and programmer. I love exploring new technologies and learning new things.
 
-<div align="center">
+<div align="center"> 
 
 ## 🚀 About Me
 
