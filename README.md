@@ -5,7 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=alcybersec&color=blue)
 
 <div align="center">
-Welcome to my GitHub profile! I'm a passionate Cyber Security student, privacy advocate, and programmer. I love exploring new technologies and learning new things.
+Welcome to my GitHub profile!<br> I'm a passionate Cyber Security student, privacy advocate, and programmer. I love exploring new technologies and learning new things.
 </div>
 
 <div align="center"> 
