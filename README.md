@@ -4,7 +4,9 @@
 ![Privacy Advocate](https://img.shields.io/badge/Privacy%20Advocate-Active-green)
 ![Profile Views](https://komarev.com/ghpvc/?username=alcybersec&color=blue)
 
+<div align="center">
 Welcome to my GitHub profile! I'm a passionate Cyber Security student, privacy advocate, and programmer. I love exploring new technologies and learning new things.
+</div>
 
 <div align="center"> 
 
