@@ -15,7 +15,7 @@ Welcome to my GitHub profile!<br> I'm a passionate Cyber Security student, priva
  🔐 Cyber Security Enthusiast<br>
  🛡️ Privacy Advocate<br>
  💻 Programmer with experience in Python, C++ and JavaScript<br> 
- 📚 Always learning and growing<br>
+ 📚 Always learning and growing<br> 
 
 <div align="center">
 
