@@ -6,7 +6,7 @@
 
 <div align="center">
 Welcome to my GitHub profile!<br> I'm a passionate Cyber Security student, privacy advocate, and programmer. I love exploring new technologies and learning new things.
-</div>
+</div> 
 
 <div align="center"> 
 
