@@ -87,18 +87,17 @@ Welcome to my GitHub profile!<br> I'm a passionate Cyber Security student, priva
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START  
-[Post Title](https://yourblog.com/post-title)<br>
-[Post Title](https://yourblog.com/post-title)
+<!-- BLOG-POST-LIST:START --> 
+[Importance of Privacy](https://alcybersec.github.io/blog-pages/importance-of-privacy.html)<br>
+<!--[Post Title](https://yourblog.com/post-title)
 <!-- BLOG-POST-LIST:END -->
 
-<!--
+
 ## 🧑‍💻 Projects
 
-[Project 1](https://github.com/alcybersec/project1) - Description of project 1
+[Email Transactions Scanner](https://github.com/alcybersec/email-transactions-scanner) - A tool for scanning and analyzing email transactions to detect potential anomalies.
 
 [Project 2](https://github.com/alcybersec/project2) - Description of project 2
--->
 
 <!--
 ## 🤝 Support
